@@ -1,6 +1,7 @@
 ## Hi there! I'm Angela
-<!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&lines=Aspiring+full-stack+developer;Student;Welcome+to+my+GitHub!)
+
+<!--
 
 **zeukyr/zeukyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
