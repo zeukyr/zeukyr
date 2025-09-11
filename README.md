@@ -1,6 +1,8 @@
 ## Hi there! I'm Angela
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&lines=Aspiring+full-stack+dev;CS+student+@+uWaterloo;Welcome+to+my+GitHub!)
 
+I am currently in my 1A term of Honours Co-op CS! 
+
 <!--
 
 **zeukyr/zeukyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
