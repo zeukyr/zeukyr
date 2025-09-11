@@ -1,5 +1,5 @@
 ## Hi there! I'm Angela
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=000000&lines=Aspiring+full-stack+developer;Honours CS Student at uWaterloo;Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=000000&lines=Aspiring+full-stack+developer;Honours CS+Student+at+uWaterloo;Welcome+to+my+GitHub!)
 
 <!--
 
