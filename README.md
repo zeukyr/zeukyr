@@ -1,11 +1,10 @@
 ## Hi there! I'm Angela
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=000000&lines=Aspiring+full-stack+dev;CS+student+@+uWaterloo;Welcome+to+my+GitHub!)
-I am currently enrolled in my 1A term of CS at the University of Waterloo! 
 
 ## About me 
-- I've been learning front-end development for 1 year
-- I am currently trying to learn back-end development with FastAPI
-- In my free time, I love to play the piano 
+- 🪿I am in my 1B term of CS at the University of Waterloo
+- 💻I've been learning front-end development with React and Tailwind CSS for 1 year, but I've recently became interested in full-stack!
+- 🎹 In my free time, I love to play the piano
 <!--
 
 **zeukyr/zeukyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
