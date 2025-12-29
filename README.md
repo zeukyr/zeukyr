@@ -7,6 +7,11 @@
 - 🎹 In my free time, I love to play the piano
 <!--
 
+## What I'm working on
+- Larder: an extension that allows you to save recipes on the internet and meal-prep
+- Wisteria Wall: a Pinterest-inspired website for women in CS
+
+
 **zeukyr/zeukyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
