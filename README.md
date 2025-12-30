@@ -8,6 +8,7 @@
 
 ## What I'm working on
 - Larder: an extension that allows you to save recipes on the internet and meal-prep
+- CLimate Dashboard: data visualization for climate change statistics & animated map 
 - Wisteria Wall: a Pinterest-inspired website for women in CS
 
 <!--
